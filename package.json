@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jasonkriss/dekrypt/issues"
   },
-  "homepage": "https://github.com/jasonkriss/dekrypt"
+  "homepage": "https://github.com/jasonkriss/dekrypt",
+  "devDependencies": {
+    "browserify": "^9.0.3"
+  }
 }
